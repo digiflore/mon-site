@@ -13,7 +13,7 @@ Ce site regroupe mes projets autour de :
 
 ## 🧩 Mes univers
 
-### 💻 Projets informatiques
+### 💻 Projets informatiques (GitHub)
 Découvrez mes projets et expérimentations :
 👉 [GitHub](https://github.com/digiflore/)
 
